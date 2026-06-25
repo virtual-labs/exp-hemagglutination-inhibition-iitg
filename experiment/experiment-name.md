@@ -1,1 +1,1 @@
-## Experiment name
+## Hemagglutination Inhibition (HI) Assay
