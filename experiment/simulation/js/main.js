@@ -2,20 +2,24 @@ document.addEventListener('DOMContentLoaded', () => {
     // 4-step HI Assay sequence configuration
     const steps = [
         {
-            src: './images/Step1.mp4',
-            caption: 'Step 1: Collect fresh chicken blood, centrifuge at 2000 rpm for 5 minutes, and wash red blood cells (RBCs) three times with PBS.'
+            src: './images/Step1HI.mp4',
+            caption: 'Step 1: Centrifuge the blood sample, then carefully discard the supernatant while retaining the red blood cell (RBC) pellet.'
         },
         {
-            src: './images/Step2.mp4',
-            caption: 'Step 2: Prepare a 1% chicken RBC suspension in PBS. Standardise the NDV stock separately to obtain exactly 4 HA units per 50 µL.'
+            src: './images/Step2HI.mp4',
+            caption: 'Step 2: Wash the RBC pellet with PBS, then centrifuge to discard the supernatant, repeat this 3 times, and store the pellet in PBS at 4 °C.'
         },
         {
-            src: './images/Step3.mp4',
-            caption: 'Step 3: Add 50 µL of PBS to a 96-well V-bottom plate, add antibody to the first column, and dilute serially two-fold across the plate.'
+            src: './images/Step3HI.mp4',
+            caption: 'Step 3: Add PBS to the wells and the antibody to the first column, and perform two-fold serial dilutions using a multichannel pipette.'
         },
         {
-            src: './images/Step4.mp4',
-            caption: 'Step 4: Add 50 µL NDV (4 HA units), pre-incubate for 30 minutes, add 50 µL of 1% RBC suspension, incubate for 30-40 minutes, and examine.'
+            src: './images/Step4HI.mp4',
+            caption: 'Step 4: Add 50 µL of virus to each diluted antibody well and to the virus control well.'
+        },
+        {
+            src: './images/Step5HI.mp4',
+            caption: 'Step 5: Add 50 µL of 1% chicken RBCs, incubate for 30–40 minutes, observe agglutination, and record the HI titre.'
         }
     ];
 
