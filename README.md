@@ -21,5 +21,5 @@ The hemagglutination inhibition (HI) assay is used to titrate the antibody respo
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Prof. Sachin Kumar| Faculty| Biosciences and Bioengineering | Indian Institute of Technology Guwahati | sachinku@iitg.ac.in
-2 | Anchal| Student |Biosciences and Bioengineering | Indian Institute of Technology Guwahati| n.anchal@iitg.ac.in 
+2 | Achal| Student |Biosciences and Bioengineering | Indian Institute of Technology Guwahati| n.achal@iitg.ac.in 
 3 | Lakshya Choudhary| Student |Department of Design | Indian Institute of Technology Guwahati| c.lakshya@iitg.ac.in 
