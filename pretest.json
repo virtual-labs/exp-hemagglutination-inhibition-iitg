@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is hemagglutination?",
+      "answers": {
+        "a": "Lysis of red blood cells by antibodies",
+        "b": "Clumping of red blood cells by viral surface proteins or lectins",
+        "c": "Opsonisation of bacteria by complement",
+        "d": "Agglutination of white blood cells"
+      },
+      "explanations": {
+        "a": "Lysis of red blood cells is hemolyis, not hemagglutination.",
+        "b": "Clumping of red blood cells by viral surface proteins or lectins.",
+        "c": "Opsonisation is coating of foreign particles to mark them for phagocytosis.",
+        "d": "Agglutination of white blood cells is leukoagglutination."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which virus is classically used as the model antigen in HI assays?",
+      "answers": {
+        "a": "HIV",
+        "b": "Influenza virus",
+        "c": "Hepatitis B virus",
+        "d": "Rabies virus"
+      },
+      "explanations": {
+        "a": "HIV is diagnosed primarily via ELISA and Western Blot, not HI assay.",
+        "b": "Influenza virus.",
+        "c": "Hepatitis B is detected via serological HBsAg assays, not HI.",
+        "d": "Rabies is diagnosed via direct fluorescent antibody tests."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the HI titer represent?",
+      "answers": {
+        "a": "Concentration of antigen in serum",
+        "b": "Highest serum dilution that completely inhibits hemagglutination",
+        "c": "Lowest serum dilution causing complete lysis",
+        "d": "Number of RBCs agglutinated per mL"
+      },
+      "explanations": {
+        "a": "Titer measures antibodies, not antigen concentration directly.",
+        "b": "Highest serum dilution that completely inhibits hemagglutination.",
+        "c": "The assay is based on agglutination inhibition, not cell lysis.",
+        "d": "RBC count is not measured by dilution titer values."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A positive result (inhibition) in the HI assay indicates:",
+      "answers": {
+        "a": "Absence of antibodies",
+        "b": "Presence of specific anti-HA antibodies",
+        "c": "Lysis of red blood cells",
+        "d": "Non-specific agglutination"
+      },
+      "explanations": {
+        "a": "Absence of antibodies results in hemagglutination (negative HI).",
+        "b": "Presence of specific anti-HA antibodies.",
+        "c": "No hemolysis occurs in standard HI assays.",
+        "d": "Positive result indicates specific antibody-mediated inhibition, not non-specific clumping."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens when agglutination is NOT inhibited?",
+      "answers": {
+        "a": "RBCs form a button pellet at the bottom",
+        "b": "RBCs form a diffuse mat/lattice pattern across the well",
+        "c": "RBCs lyse completely",
+        "d": "No visible change occurs"
+      },
+      "explanations": {
+        "a": "RBCs form a button when agglutination IS inhibited.",
+        "b": "RBCs form a diffuse mat/lattice pattern across the well.",
+        "c": "Lysis is not a standard feature of the assay.",
+        "d": "Lack of inhibition produces a visible diffuse red film."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the standard number of haemagglutination units (HAU) per well in HI test?",
+      "answers": {
+        "a": "1 HAU",
+        "b": "4 HAU",
+        "c": "8 HAU",
+        "d": "16 HAU"
+      },
+      "explanations": {
+        "a": "1 HAU is too low and reduces test robustness.",
+        "b": "4 HAU.",
+        "c": "8 HAU increases false negatives by overwhelming the antibodies.",
+        "d": "16 HAU is too high to achieve standard sensitivity."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following best describes the principle behind the HI assay?",
+      "answers": {
+        "a": "Antibodies directly lyse virus-infected cells",
+        "b": "Antibodies block viral HA from binding sialic acid on RBCs, preventing agglutination",
+        "c": "Complement activation leads to RBC lysis",
+        "d": "Viral neuraminidase cleaves RBC surface receptors"
+      },
+      "explanations": {
+        "a": "HI is cell-free and does not involve lysing virus-infected host cells.",
+        "b": "Antibodies block viral HA from binding sialic acid on RBCs, preventing agglutination.",
+        "c": "No complement is added to the assay mixture.",
+        "d": "Neuraminidase cleavage happens but is not the basis of antibody-mediated inhibition."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following incubation conditions is typically used after adding serum and virus antigen together before adding RBCs in the HI assay?",
+      "answers": {
+        "a": "37°C for 1 hour",
+        "b": "56°C for 30 minutes",
+        "c": "Room temperature or 4°C for 30–60 minutes",
+        "d": "−20°C overnight"
+      },
+      "explanations": {
+        "a": "37°C is sometimes used, but room temperature or 4°C is the standard for pre-incubation.",
+        "b": "56°C is used to heat-inactivate complement in serum, not for virus-antibody incubation.",
+        "c": "Room temperature or 4°C for 30–60 minutes.",
+        "d": "Freezing prevents binding interactions from occurring properly."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The HI assay is performed in which type of laboratory plate?",
+      "answers": {
+        "a": "A flat-bottom 96-well plate",
+        "b": "V-bottom or U-bottom 96-well microtiter plate",
+        "c": "Petri dish",
+        "d": "Centrifuge tube rack"
+      },
+      "explanations": {
+        "a": "Flat-bottom plates do not allow non-agglutinated RBCs to settle into a tight button.",
+        "b": "V-bottom or U-bottom 96-well microtiter plate.",
+        "c": "Petri dishes are used for cell culture agar plates.",
+        "d": "Tube racks do not have microwells for optical reading."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which viral surface protein is targeted in the haemagglutination inhibition assay?",
+      "answers": {
+        "a": "Neuraminidase",
+        "b": "Matrix protein",
+        "c": "Haemagglutinin",
+        "d": "Nucleoprotein"
+      },
+      "explanations": {
+        "a": "Neuraminidase is targeted in neuraminidase inhibition assays.",
+        "b": "Matrix protein is internal and does not bind RBCs.",
+        "c": "Haemagglutinin.",
+        "d": "Nucleoprotein is internal and does not bind RBC sialic acid receptors."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

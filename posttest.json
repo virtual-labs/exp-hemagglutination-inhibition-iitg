@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In the HI assay, what does inhibition of agglutination indicate?",
+      "answers": {
+        "a": "Absence of red blood cells",
+        "b": "Presence of specific antibodies in the serum",
+        "c": "Complement activation",
+        "d": "Virus mutation"
+      },
+      "explanations": {
+        "a": "RBCs are added as indicators; their absence would invalidate the test.",
+        "b": "Presence of specific antibodies in the serum.",
+        "c": "Complement is not involved in standard HI assays.",
+        "d": "Inhibition indicates antibody neutralization, not viral genomic mutation."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the HI assay, what does inhibition of agglutination indicate? (Alternative)",
+      "answers": {
+        "a": "Absence of red blood cells",
+        "b": "Presence of specific antibodies in the serum",
+        "c": "Complement activation",
+        "d": "Virus mutation"
+      },
+      "explanations": {
+        "a": "Absence of RBCs would result in no red color at all, not a button.",
+        "b": "Presence of specific antibodies in the serum.",
+        "c": "Complement activation is not measured by HI assays.",
+        "d": "Inhibition is mediated by specific antibodies binding to the viral antigen."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A serum sample showing no agglutination at all dilutions in the HI assay indicates?",
+      "answers": {
+        "a": "High titre of antibodies completely inhibiting haemagglutination",
+        "b": "Absence of red blood cells",
+        "c": "Virus is too concentrated",
+        "d": "Complement has lysed the RBCs"
+      },
+      "explanations": {
+        "a": "High titre of antibodies completely inhibiting haemagglutination.",
+        "b": "RBC controls verify the presence of functional cells in the assay wells.",
+        "c": "High virus concentration would cause agglutination, not complete inhibition.",
+        "d": "Complement lysis is not a mechanism of this agglutination inhibition test."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does a titre of 1:40 in an HI assay mean?",
+      "answers": {
+        "a": "The serum was diluted 40 times and still showed agglutination",
+        "b": "The serum at 1:40 dilution completely inhibited haemagglutination",
+        "c": "40 HAU of virus were used",
+        "d": "40% of RBCs were agglutinated"
+      },
+      "explanations": {
+        "a": "Titre marks the highest dilution that inhibits, not causes, agglutination.",
+        "b": "The serum at 1:40 dilution completely inhibited haemagglutination.",
+        "c": "4 HAU of virus are standardly used per well.",
+        "d": "The percentage of agglutination is not numerically calculated in titers."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a positive control in the HI assay?",
+      "answers": {
+        "a": "RBCs alone",
+        "b": "PBS alone",
+        "c": "Known positive serum with antibodies against the virus",
+        "d": "Virus diluted beyond its HA titre"
+      },
+      "explanations": {
+        "a": "RBCs alone serve as the negative control (button format indicator).",
+        "b": "PBS alone is a buffer control.",
+        "c": "Known positive serum with antibodies against the virus.",
+        "d": "Diluting virus beyond the titer acts as a check on virus strength, not positive antibody control."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following factors can cause a false-positive inhibition in the HI assay?",
+      "answers": {
+        "a": "Use of fresh RBCs",
+        "b": "Non-specific inhibitors in untreated serum",
+        "c": "Correct incubation temperature",
+        "d": "Use of 4 HAU of virus"
+      },
+      "explanations": {
+        "a": "Fresh RBCs ensure clean and accurate results.",
+        "b": "Non-specific inhibitors in untreated serum.",
+        "c": "Correct temperatures prevent false readings.",
+        "d": "Using 4 HAU is the standard requirement to prevent false results."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens if more than 4 HAU of virus is used in the HI assay?",
+      "answers": {
+        "a": "Better inhibition is achieved",
+        "b": "The assay becomes more sensitive",
+        "c": "Over-saturated antibodies, causing false-negative inhibition",
+        "d": "RBCs lyse completely"
+      },
+      "explanations": {
+        "a": "Excess virus will cause agglutination, masking the presence of antibodies.",
+        "b": "Using too much virus decreases the sensitivity of antibody detection.",
+        "c": "Over-saturated antibodies, causing false-negative inhibition.",
+        "d": "Virus particles clump RBCs but do not lyse them."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the effect of using old or damaged red blood cells in the HI assay?",
+      "answers": {
+        "a": "Increased sensitivity of the assay",
+        "b": "Non-specific agglutination leading to false-positive results",
+        "c": "Enhanced antibody binding",
+        "d": "Reduced background noise"
+      },
+      "explanations": {
+        "a": "Damaged cells decrease the reliability and sensitivity of the assay.",
+        "b": "Non-specific agglutination leading to false-positive results.",
+        "c": "Antibody binding is independent of RBC age, but readouts become muddy.",
+        "d": "Background noise and settling stutters are increased with old cells."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following viruses would NOT be detected by a standard HI assay?",
+      "answers": {
+        "a": "Influenza A H1N1",
+        "b": "Influenza B",
+        "c": "Newcastle disease virus",
+        "d": "Hepatitis C virus"
+      },
+      "explanations": {
+        "a": "Influenza viruses express haemagglutinin and are detected by HI.",
+        "b": "Influenza B expresses haemagglutinin and is detected by HI.",
+        "c": "Newcastle disease virus expresses HN protein and agglutinates RBCs.",
+        "d": "Hepatitis C virus."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following pH ranges is optimal for PBS used in HI assays?",
+      "answers": {
+        "a": "pH 5.0–5.5",
+        "b": "pH 6.0–6.5",
+        "c": "pH 7.0–7.4",
+        "d": "pH 8.0–8.5"
+      },
+      "explanations": {
+        "a": "Acidic pH can cause spontaneous hemolysis or alter binding affinity.",
+        "b": "Slightly acidic conditions are not optimal for cell stability.",
+        "c": "pH 7.0–7.4.",
+        "d": "Alkaline conditions can cause cell lysis or protein denaturation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

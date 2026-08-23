@@ -1,0 +1,1 @@
+## Hemagglutination Inhibition (HI) Assay
